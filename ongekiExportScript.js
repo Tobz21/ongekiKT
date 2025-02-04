@@ -1,0 +1,1 @@
+javascript:(function(d){if(location.origin=="https://kamai.tachi.ac"){var s=d.createElement("script");s.src="https://gist.githack.com/Tobz21/baaad8565fb8e17b45f224e4fd686324/raw/25c839245fba1595fe3175f6cf3ddb840d74bbf7/ongkTry.js";d.body.append(s);}})(document)
