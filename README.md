@@ -34,6 +34,7 @@ With this, you can find and calculate things like songs of the NEW rating frame 
   - For when difficulty = LUNATIC, use the lunatic added date instead of default date release
 - Take into account and display more metrics, maybe in a nice way like how beerpsi's chuni bot shows judgements
   - Maybe make an equivalent ongeki bot with a kamaitachi hook to profile ???
+- Devise a REACHABLE rating, by b30 + n15 + max(r15)
 - Support オンゲキ bright MEMORY ACT 3 when it releases for my cab on MYT
 - Test on Linux/Unix based systems and ensure cross platform (especially with root directory)
 
