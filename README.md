@@ -7,8 +7,8 @@ I was unable to find a method to export and display data from Kamaitachi for the
 With this, you can find and calculate things like songs of the NEW rating frame and their ratings, which Kamaitachi doesn't do as of writing.
 
 ## Usage
-Requires Python 3.11.5
-
+- Requires Python 3.11.5
+- Assumes data is of bright MEMORY ACT 2, NEW frame is set with this taken into account
 Save `javascript:(function(d){if(location.origin=="https://kamai.tachi.ac"){var s=d.createElement("script");s.src="https://gist.githack.com/Tobz21/baaad8565fb8e17b45f224e4fd686324/raw/25c839245fba1595fe3175f6cf3ddb840d74bbf7/ongkTry.js";d.body.append(s);}})(document)` as a bookmark, and click it when on the kamaitachi page and logged in, or run that in the console when on the site.
 
 1. Download ongeki_const_all.json and ongekiscript.py to the same directory
