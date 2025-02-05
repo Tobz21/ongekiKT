@@ -17,6 +17,7 @@ With this, you can find and calculate things like songs of the NEW rating frame 
 
 4. Run ongekiscript.py on a terminal to get print output
 
+The current output is set to calculate your rated plays by the chart constants, print the best 30 and b30 average to terminal and print the top 20 NEW plays 
 
 ## Limitations
 - UNTESTED with LUNATIC difficulty.
