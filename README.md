@@ -12,6 +12,7 @@ With this, you can find and calculate things like songs of the NEW rating frame 
 
 1. Save `javascript:(function(d){if(location.origin=="https://kamai.tachi.ac"){var s=d.createElement("script");s.src="https://gist.githack.com/Tobz21/baaad8565fb8e17b45f224e4fd686324/raw/25c839245fba1595fe3175f6cf3ddb840d74bbf7/ongkTry.js";d.body.append(s);}})(document)`  as a bookmark, click it on Kamaitachi page or run it in the console when logged in on the page.
 
+2. Save the downloaded 'ongekirating.tachi' file to a directory for the following
 3. Download ongeki_const_all.json and ongekiscript.py to the same directory
 
 4. Run ongekiscript.py on a terminal to get print output
