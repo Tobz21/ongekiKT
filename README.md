@@ -32,7 +32,8 @@ With this, you can find and calculate things like songs of the NEW rating frame 
 - Fix python script to take into account LUNATIC difficulty scores and release date 
   - For when difficulty = LUNATIC, use the lunatic added date instead of default date release
 - Take into account and display more metrics, maybe in a nice way like how beerpsi's chuni bot shows judgements
-  - Maybe make an equivalent ongeki bot with a kamaitachi hook to profile ???  
+  - Maybe make an equivalent ongeki bot with a kamaitachi hook to profile ???
+- Support オンゲキ bright MEMORY ACT 3 when it releases for my cab on MYT
 - Test on Linux/Unix based systems and ensure cross platform (especially with root directory)
 
 ## Acknowledgements
